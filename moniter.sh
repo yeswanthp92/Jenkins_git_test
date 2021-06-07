@@ -17,3 +17,5 @@ do
 	echo $c
 done 
 
+echo " this script is the logic behind ferbnoci series "
+
